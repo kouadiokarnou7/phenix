@@ -1,4 +1,4 @@
-import image from "../../public/logo3.png";
+
 
 export default function Accueil () {
     return (
